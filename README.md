@@ -6,7 +6,7 @@ Developer-focused portfolio showcasing AI/ML projects, data engineering exercise
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aespondac)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aespondac)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/danec12)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/aespondac)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/aespondac)
 [![Google Cloud Skills](https://img.shields.io/badge/Google_Cloud_Skills-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/2dfdec35-1eb4-434e-ab14-9622b09fb6b3)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/aespondac)
@@ -81,7 +81,7 @@ I'm always open to collaborating on projects related to **AI, Data Science, and 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aespondac-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/aespondac)
 [![GitHub](https://img.shields.io/badge/GitHub-aespondac-100000?style=flat-square&logo=github)](https://github.com/aespondac)
-[![Kaggle](https://img.shields.io/badge/Kaggle-danec12-20BEFF?style=flat-square&logo=kaggle)](https://kaggle.com/danec12)
+[![Kaggle](https://img.shields.io/badge/Kaggle-aespondac-20BEFF?style=flat-square&logo=kaggle)](https://kaggle.com/aespondac)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-aespondac-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/aespondac)
 [![Google Cloud Skills](https://img.shields.io/badge/Google_Skills-aespondac-4285F4?style=flat-square&logo=googlecloud)](https://www.skills.google/public_profiles/2dfdec35-1eb4-434e-ab14-9622b09fb6b3)
 [![Credly](https://img.shields.io/badge/Credly-aespondac-FF6B00?style=flat-square&logo=credly)](https://www.credly.com/users/aespondac)
